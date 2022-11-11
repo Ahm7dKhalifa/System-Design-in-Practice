@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.kafka\\Infrastructure.MessageQueue.kafka.csproj",
+      "projectUniqueName": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.Kafka\\Infrastructure.MessageQueue.Kafka.csproj",
       "projectName": "Infrastructure.MessageQueue.kafka",
-      "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.kafka\\Infrastructure.MessageQueue.kafka.csproj",
+      "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.Kafka\\Infrastructure.MessageQueue.Kafka.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
       "outputPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.kafka\\obj\\",
       "projectStyle": "PackageReference",

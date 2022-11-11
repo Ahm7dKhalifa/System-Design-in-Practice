@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Odv4M5rpsG1LIl/RR5lIMmwCIKkycj/ZTR+tqaepuNYRP+61wy+DGbOLNlAJk+/3rDe+aw3OkiBu3xAZm9ATA==",
+  "dgSpecHash": "zR3dFH3WQ+rBfDdG9jkrv3J1jJFvYnvMb4tQT2EXM2ML+sinOQ48DeX002eq12ssbMRSMLhhcNj2xYmhZwOaWA==",
   "success": true,
-  "projectFilePath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.kafka\\Infrastructure.MessageQueue.kafka.csproj",
+  "projectFilePath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.Kafka\\Infrastructure.MessageQueue.Kafka.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿namespace Infrastructure.MessageQueue.kafka
+﻿namespace Infrastructure.MessageQueue.Kafka
 {
     public class Class1
     {
