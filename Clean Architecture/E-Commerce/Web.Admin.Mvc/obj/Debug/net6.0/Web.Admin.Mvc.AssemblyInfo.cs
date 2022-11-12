@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Web.Admin.Mvc-7335DE94-2F8B-4021-932F-9CD0896B4CD3")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web.Admin.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
