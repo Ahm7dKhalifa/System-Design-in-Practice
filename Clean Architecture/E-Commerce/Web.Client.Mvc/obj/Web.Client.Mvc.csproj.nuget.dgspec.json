@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Web.Client.Mvc\\Web.Client.Mvc.csproj": {}
+  },
+  "projects": {
+    "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Web.Client.Mvc\\Web.Client.Mvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Web.Client.Mvc\\Web.Client.Mvc.csproj",
+        "projectName": "Web.Client.Mvc",
+        "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Web.Client.Mvc\\Web.Client.Mvc.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Web.Client.Mvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.8, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
