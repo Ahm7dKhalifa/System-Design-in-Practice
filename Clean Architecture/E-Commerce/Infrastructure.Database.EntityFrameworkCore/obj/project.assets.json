@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Databasebase.EntityFrameworkCore\\Infrastructure.Databasebase.EntityFrameworkCore.csproj",
-      "projectName": "Infrastructure.Databasebase.EntityFrameworkCore",
-      "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Databasebase.EntityFrameworkCore\\Infrastructure.Databasebase.EntityFrameworkCore.csproj",
+      "projectUniqueName": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Database.EntityFrameworkCore\\Infrastructure.Database.EntityFrameworkCore.csproj",
+      "projectName": "Infrastructure.Database.EntityFrameworkCore",
+      "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Database.EntityFrameworkCore\\Infrastructure.Database.EntityFrameworkCore.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Databasebase.EntityFrameworkCore\\obj\\",
+      "outputPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.Database.EntityFrameworkCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
