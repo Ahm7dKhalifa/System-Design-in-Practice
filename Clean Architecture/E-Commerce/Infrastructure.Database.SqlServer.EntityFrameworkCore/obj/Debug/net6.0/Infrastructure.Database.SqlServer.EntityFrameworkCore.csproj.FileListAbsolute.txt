@@ -1,1 +1,0 @@
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.Database.SqlServer.EntityFrameworkCore\obj\Debug\net6.0\Infrastructure.Database.SqlServer.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig

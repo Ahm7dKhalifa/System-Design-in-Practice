@@ -9,6 +9,14 @@ D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clea
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.ApplicationServices.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.DomainServices.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.ApplicationServices.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.DomainServices.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.Objects.pdb
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
@@ -25,11 +33,3 @@ D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clea
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
 D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.ApplicationServices.dll
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.DomainServices.dll
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.InfrastructureInterfaces.dll
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.Objects.dll
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.ApplicationServices.pdb
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.DomainServices.pdb
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
-D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\ApiGateway\bin\Debug\net6.0\Domain.Objects.pdb

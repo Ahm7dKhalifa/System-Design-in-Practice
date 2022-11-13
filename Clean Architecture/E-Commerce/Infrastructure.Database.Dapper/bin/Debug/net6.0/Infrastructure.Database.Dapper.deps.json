@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Infrastructure.Database.Dapper/1.0.0": {
+        "dependencies": {
+          "Domain.InfrastructureInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.Database.Dapper.dll": {}
+        }
+      },
+      "Domain.InfrastructureInterfaces/1.0.0": {
+        "dependencies": {
+          "Domain.Objects": "1.0.0"
+        },
+        "runtime": {
+          "Domain.InfrastructureInterfaces.dll": {}
+        }
+      },
+      "Domain.Objects/1.0.0": {
+        "runtime": {
+          "Domain.Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastructure.Database.Dapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.InfrastructureInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
