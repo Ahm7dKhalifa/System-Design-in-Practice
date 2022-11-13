@@ -88,6 +88,57 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Domain.ApplicationServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.DomainServices": "1.0.0",
+          "Domain.InfrastructureInterfaces": "1.0.0",
+          "Domain.Objects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.ApplicationServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.ApplicationServices.dll": {}
+        }
+      },
+      "Domain.DomainServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Objects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.DomainServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.DomainServices.dll": {}
+        }
+      },
+      "Domain.InfrastructureInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Objects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.InfrastructureInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.InfrastructureInterfaces.dll": {}
+        }
+      },
+      "Domain.Objects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.Objects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Objects.dll": {}
+        }
       }
     }
   },
@@ -216,10 +267,31 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Domain.ApplicationServices/1.0.0": {
+      "type": "project",
+      "path": "../Domain.ApplicationServices/Domain.ApplicationServices.csproj",
+      "msbuildProject": "../Domain.ApplicationServices/Domain.ApplicationServices.csproj"
+    },
+    "Domain.DomainServices/1.0.0": {
+      "type": "project",
+      "path": "../Domain.DomainServices/Domain.DomainServices.csproj",
+      "msbuildProject": "../Domain.DomainServices/Domain.DomainServices.csproj"
+    },
+    "Domain.InfrastructureInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Domain.InfrastructureInterfaces/Domain.InfrastructureInterfaces.csproj",
+      "msbuildProject": "../Domain.InfrastructureInterfaces/Domain.InfrastructureInterfaces.csproj"
+    },
+    "Domain.Objects/1.0.0": {
+      "type": "project",
+      "path": "../Domain.Objects/Domain.Objects.csproj",
+      "msbuildProject": "../Domain.Objects/Domain.Objects.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domain.ApplicationServices >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -255,7 +327,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj": {
+              "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

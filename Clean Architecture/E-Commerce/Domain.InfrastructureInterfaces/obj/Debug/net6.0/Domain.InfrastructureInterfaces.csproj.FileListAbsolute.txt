@@ -1,0 +1,15 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\bin\Debug\net6.0\Domain.InfrastructureInterfaces.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\bin\Debug\net6.0\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\bin\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\refint\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\ref\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\bin\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\bin\Debug\net6.0\Domain.Objects.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.InfrastructureInterfaces\obj\Debug\net6.0\Domain.InfrastructureInterfaces.csproj.CopyComplete

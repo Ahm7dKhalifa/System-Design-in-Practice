@@ -1,0 +1,15 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\bin\Debug\net6.0\Mobile.Apple.exe
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\bin\Debug\net6.0\Mobile.Apple.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\bin\Debug\net6.0\Mobile.Apple.runtimeconfig.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\bin\Debug\net6.0\Mobile.Apple.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\bin\Debug\net6.0\Mobile.Apple.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\refint\Mobile.Apple.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\Mobile.Apple.genruntimeconfig.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Apple\obj\Debug\net6.0\ref\Mobile.Apple.dll

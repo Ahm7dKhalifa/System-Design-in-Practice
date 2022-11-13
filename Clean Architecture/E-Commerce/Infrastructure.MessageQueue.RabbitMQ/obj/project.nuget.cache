@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gbW1vrtDtR/KHf+BjhyRtn/WqwFe5uIN5SxKKkxLgZuLrHInqSlqd6f+/wwQKdkoLVZI7FXkLoahOJGC7syI4g==",
+  "dgSpecHash": "IVr8+/bHLYyrLYZNh475ohZjSvV3PRU8vr5KqCvpuNLBxa2zTFcHRknIRKLc+12dDPgPIDjvR+Cl5GWRECaNrQ==",
   "success": true,
   "projectFilePath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Infrastructure.MessageQueue.RabbitMQ\\Infrastructure.MessageQueue.RabbitMQ.csproj",
   "expectedPackageFiles": [],

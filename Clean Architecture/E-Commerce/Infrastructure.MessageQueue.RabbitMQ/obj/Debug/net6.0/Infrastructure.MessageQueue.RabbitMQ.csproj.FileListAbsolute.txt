@@ -1,0 +1,17 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\refint\Infrastructure.MessageQueue.RabbitMQ.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\ref\Infrastructure.MessageQueue.RabbitMQ.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\bin\Debug\net6.0\Domain.Objects.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.RabbitMQ\obj\Debug\net6.0\Infrastructure.MessageQueue.RabbitMQ.csproj.CopyComplete

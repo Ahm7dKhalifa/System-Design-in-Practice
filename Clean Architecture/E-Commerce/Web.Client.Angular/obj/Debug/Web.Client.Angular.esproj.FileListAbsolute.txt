@@ -1,0 +1,2 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Web.Client.Angular\obj\Debug\Web.Client.Angular.esproj.SuggestedBindingRedirects.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Web.Client.Angular\obj\Debug\Web.Client.Angular.esproj.CoreCompileInputs.cache

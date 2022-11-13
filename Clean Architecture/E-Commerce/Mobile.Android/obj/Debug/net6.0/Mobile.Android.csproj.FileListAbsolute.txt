@@ -1,0 +1,15 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\bin\Debug\net6.0\Mobile.Android.exe
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\bin\Debug\net6.0\Mobile.Android.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\bin\Debug\net6.0\Mobile.Android.runtimeconfig.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\bin\Debug\net6.0\Mobile.Android.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\bin\Debug\net6.0\Mobile.Android.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\refint\Mobile.Android.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\Mobile.Android.genruntimeconfig.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Mobile.Android\obj\Debug\net6.0\ref\Mobile.Android.dll

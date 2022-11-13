@@ -1,0 +1,17 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Infrastructure.MessageQueue.Kafka.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Infrastructure.MessageQueue.Kafka.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Infrastructure.MessageQueue.Kafka.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\refint\Infrastructure.MessageQueue.Kafka.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\ref\Infrastructure.MessageQueue.Kafka.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Domain.InfrastructureInterfaces.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Domain.InfrastructureInterfaces.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\bin\Debug\net6.0\Domain.Objects.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Infrastructure.MessageQueue.Kafka\obj\Debug\net6.0\Infrastructure.MessageQueue.Kafka.csproj.CopyComplete

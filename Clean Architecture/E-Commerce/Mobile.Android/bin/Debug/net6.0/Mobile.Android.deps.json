@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mobile.Android/1.0.0": {
+        "runtime": {
+          "Mobile.Android.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mobile.Android/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

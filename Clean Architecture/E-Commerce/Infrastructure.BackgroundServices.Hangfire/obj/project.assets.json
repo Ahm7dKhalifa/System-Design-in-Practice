@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Domain.InfrastructureInterfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain.Objects": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.InfrastructureInterfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.InfrastructureInterfaces.dll": {}
+        }
+      },
+      "Domain.Objects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domain.Objects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.Objects.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain.InfrastructureInterfaces/1.0.0": {
+      "type": "project",
+      "path": "../Domain.InfrastructureInterfaces/Domain.InfrastructureInterfaces.csproj",
+      "msbuildProject": "../Domain.InfrastructureInterfaces/Domain.InfrastructureInterfaces.csproj"
+    },
+    "Domain.Objects/1.0.0": {
+      "type": "project",
+      "path": "../Domain.Objects/Domain.Objects.csproj",
+      "msbuildProject": "../Domain.Objects/Domain.Objects.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Domain.InfrastructureInterfaces >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\lenovo\\.nuget\\packages\\": {},
@@ -39,7 +76,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj": {
+              "projectPath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

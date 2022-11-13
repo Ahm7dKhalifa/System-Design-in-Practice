@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vAeVtGzNUIbmk2AXUv2lB1uf0o0d3X7gg2SGNOo6Vs5RtrcwdmdIWlF4Wys94K7OiCadBUdMuFMZO2PGkp54Jw==",
+  "dgSpecHash": "wWGJIIjq45CdnKhw1LDlygVuFDlE9ndkf4ADKGvKC20jC+vMSizAeTUimfOHmmOh1gyLopxRZKa1IjN3pKFcag==",
   "success": true,
   "projectFilePath": "D:\\_Engineering\\Github\\System_Design_And_Advance_Backend_Engineering_Topics\\Clean Architecture\\E-Commerce\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj",
   "expectedPackageFiles": [],

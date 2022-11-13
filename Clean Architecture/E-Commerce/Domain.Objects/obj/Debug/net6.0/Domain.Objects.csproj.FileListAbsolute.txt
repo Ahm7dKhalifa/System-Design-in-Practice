@@ -1,0 +1,12 @@
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\bin\Debug\net6.0\Domain.Objects.deps.json
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\bin\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\bin\Debug\net6.0\Domain.Objects.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.csproj.AssemblyReference.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.AssemblyInfoInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.AssemblyInfo.cs
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.csproj.CoreCompileInputs.cache
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\refint\Domain.Objects.dll
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\Domain.Objects.pdb
+D:\_Engineering\Github\System_Design_And_Advance_Backend_Engineering_Topics\Clean Architecture\E-Commerce\Domain.Objects\obj\Debug\net6.0\ref\Domain.Objects.dll
