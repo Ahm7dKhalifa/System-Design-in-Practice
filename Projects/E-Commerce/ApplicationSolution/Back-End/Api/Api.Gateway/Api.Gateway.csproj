@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\Domain.ApplicationServices\Domain.ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.Core\Domain.Core.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.DomainServices\Domain.DomainServices.csproj" />
+    <ProjectReference Include="..\..\Domain\Domain.InfrastructureInterfaces\Domain.InfrastructureInterfaces.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Infrastructure.Database.Redis\Infrastructure.Database.Redis.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Infrastructure.Database.SqlServer\Infrastructure.Database.SqlServer.csproj" />
+  </ItemGroup>
+
+</Project>

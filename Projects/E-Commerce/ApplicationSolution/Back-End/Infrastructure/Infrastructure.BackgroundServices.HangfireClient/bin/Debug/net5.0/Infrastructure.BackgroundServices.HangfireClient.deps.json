@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Infrastructure.BackgroundServices.HangfireClient/1.0.0": {
+        "dependencies": {
+          "Domain.InfrastructureInterfaces": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.BackgroundServices.HangfireClient.dll": {}
+        }
+      },
+      "Domain.Core/1.0.0": {
+        "runtime": {
+          "Domain.Core.dll": {}
+        }
+      },
+      "Domain.InfrastructureInterfaces/1.0.0": {
+        "dependencies": {
+          "Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Domain.InfrastructureInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infrastructure.BackgroundServices.HangfireClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain.InfrastructureInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

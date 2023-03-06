@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NE5qjo7Fr9lvDiEdYLSRboHUgW+YF1enfKtkOQ37vZGo/VIc3qDxAuaCsSITy69SBn0aT6Bgg0u87YBhYMKmw==",
+  "success": true,
+  "projectFilePath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.Redis\\Infrastructure.Database.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akhalifa\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\akhalifa\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\akhalifa\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
