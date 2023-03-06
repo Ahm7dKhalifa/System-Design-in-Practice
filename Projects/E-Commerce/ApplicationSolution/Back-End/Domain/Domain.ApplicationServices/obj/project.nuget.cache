@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmA01BpiFnIgVodqNsslxat0eSRLJPkvnRhWC1vfoNPV2KN2DBPmqFgxmmMxaWl3Fpws5aS4bB2wOPI1v2vZ1A==",
+  "dgSpecHash": "oiRd5kipoLmD+oGONBzCHIxHAY+rag79aGBsc9d2F6rNWB5f2jjPWJ8Az5+HJvtjrGoKUScwUy+vzV8GAS0I/w==",
   "success": true,
-  "projectFilePath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj",
+  "projectFilePath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

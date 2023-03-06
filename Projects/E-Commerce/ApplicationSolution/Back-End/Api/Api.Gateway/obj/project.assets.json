@@ -6317,11 +6317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
+      "projectUniqueName": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
       "projectName": "Api.Gateway",
-      "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
+      "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
       "packagesPath": "C:\\Users\\akhalifa\\.nuget\\packages\\",
-      "outputPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\obj\\",
+      "outputPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akhalifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6339,23 +6339,23 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.ApplicationServices\\Domain.ApplicationServices.csproj"
             },
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.Core\\Domain.Core.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.Core\\Domain.Core.csproj"
             },
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.DomainServices\\Domain.DomainServices.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.DomainServices\\Domain.DomainServices.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.DomainServices\\Domain.DomainServices.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.DomainServices\\Domain.DomainServices.csproj"
             },
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj"
             },
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.Redis\\Infrastructure.Database.Redis.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.Redis\\Infrastructure.Database.Redis.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.Redis\\Infrastructure.Database.Redis.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.Redis\\Infrastructure.Database.Redis.csproj"
             },
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj"
             }
           }
         }

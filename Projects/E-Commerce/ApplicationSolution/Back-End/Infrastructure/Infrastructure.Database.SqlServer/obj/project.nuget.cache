@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U3euRrF0NHaYltwZL2Em2N23V4u/Ho6jZg7vZCGdn29F6NU57PWAhWBFKP/5a+MUXgaOrBkPNCkuXm9gF1TJPQ==",
+  "dgSpecHash": "b9uT5V/xSfLnt4ImSzHPe/RLMoLDjIp2sN4bVS447tQ1R0V5Go+1AqKD9ma1L/p1yKW9q9vzWVqdFHn69qiPHA==",
   "success": true,
-  "projectFilePath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj",
+  "projectFilePath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.Database.SqlServer\\Infrastructure.Database.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akhalifa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\akhalifa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -39,7 +39,15 @@ namespace Api.Gateway.Controllers
 
             List<Product> products = await _sqlDatabase.Products.ToListAsync();
 
-            return await _productsPrimaryDatabaseRepository.GetProductsOrderedDescByTotalNumbersOfLikes(new ListParameters<Product>());
+            var ListParameters = new ListParameters<Product>();
+
+            ListParameters.PagingParameters = new PagingParameters(1, 5);
+
+            ListParameters.WhereConditions.Add(p => p.Deleted == false);
+
+            ListParameters.WhereConditions.Add(p => p.TotalCountOfViewers > 6);
+
+            return await _productsPrimaryDatabaseRepository.GetProductsOrderedDescByTotalNumbersOfLikes(ListParameters);
 
 
         }

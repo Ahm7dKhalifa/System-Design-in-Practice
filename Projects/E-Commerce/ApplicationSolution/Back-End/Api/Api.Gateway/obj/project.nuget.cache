@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hj3LTleL+WDQkkyrusBQ9Shyb3zUh9fuTOuyGvsTWYXQ/09dwcasyoy6hjUkhDCLexCvbyQ6CEueLYoJxn2DuA==",
+  "dgSpecHash": "igX7FHJRL0XwxGCMXFGS57jkAYAenPe2VBbr2vsAgmBXme8TgmpsdsxRC3EnVZctUepFWl9OTobRR/jZ8srEfA==",
   "success": true,
-  "projectFilePath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
+  "projectFilePath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Api\\Api.Gateway\\Api.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akhalifa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\akhalifa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

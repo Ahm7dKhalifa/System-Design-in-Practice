@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\Infrastructure.BackgroundServices.HangfireServer.csproj",
+      "projectUniqueName": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\Infrastructure.BackgroundServices.HangfireServer.csproj",
       "projectName": "Infrastructure.BackgroundServices.HangfireServer",
-      "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\Infrastructure.BackgroundServices.HangfireServer.csproj",
+      "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\Infrastructure.BackgroundServices.HangfireServer.csproj",
       "packagesPath": "C:\\Users\\akhalifa\\.nuget\\packages\\",
-      "outputPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\obj\\",
+      "outputPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akhalifa\\AppData\\Roaming\\NuGet\\NuGet.Config",

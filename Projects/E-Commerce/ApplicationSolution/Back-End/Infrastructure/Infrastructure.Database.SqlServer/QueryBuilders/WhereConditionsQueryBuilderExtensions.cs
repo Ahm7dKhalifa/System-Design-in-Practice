@@ -11,7 +11,7 @@ namespace Infrastructure.Database.SqlServer.QueryBuilders
     {
         public static IQueryable<Type> WhereConditionsQueryBuilder<Type>(this IQueryable<Type> query, List<Expression<Func<Type, bool>>> whereConditions)
         {
-            if (whereConditions != null)
+            if (whereConditions != null && whereConditions.Count > 0)
             {
                 foreach (var where in whereConditions)
                 {

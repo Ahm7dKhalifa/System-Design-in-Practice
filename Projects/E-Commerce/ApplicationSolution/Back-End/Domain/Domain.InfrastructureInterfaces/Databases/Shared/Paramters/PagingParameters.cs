@@ -10,5 +10,11 @@ namespace Domain.InfrastructureInterfaces.Databases.Shared
     {
         public int PageNumber = 1;
         public int PageSize = 10;
+
+        public PagingParameters(int pageNumber , int pageSize)
+        {
+            PageNumber = pageNumber;
+            PageSize = pageSize;
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "97neYogJhVcR94vtwepj3aw/8xNIaMKywIl5pqh0t2kKs/y4I3JUyDIQnQRTXmh3avF/343UI8bR8MyLyeYflw==",
+  "dgSpecHash": "WgId3im8E9dMdQOPP+gZtRmBx9bduX9Fpe1IcoJ7/is2ty/zlZjuScMm6zeNEj0RsHU/i8mB6xfeePs+tdZEWg==",
   "success": true,
-  "projectFilePath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj",
+  "projectFilePath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

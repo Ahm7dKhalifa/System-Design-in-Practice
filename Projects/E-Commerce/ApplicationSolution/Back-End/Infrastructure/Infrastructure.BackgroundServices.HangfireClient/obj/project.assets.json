@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\Infrastructure.BackgroundServices.HangfireClient.csproj",
+      "projectUniqueName": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\Infrastructure.BackgroundServices.HangfireClient.csproj",
       "projectName": "Infrastructure.BackgroundServices.HangfireClient",
-      "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\Infrastructure.BackgroundServices.HangfireClient.csproj",
+      "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\Infrastructure.BackgroundServices.HangfireClient.csproj",
       "packagesPath": "C:\\Users\\akhalifa\\.nuget\\packages\\",
-      "outputPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\obj\\",
+      "outputPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Infrastructure\\Infrastructure.BackgroundServices.HangfireClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akhalifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,8 +72,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj": {
-              "projectPath": "E:\\My\\E-Commerce\\E-Commerce\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj"
+            "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj": {
+              "projectPath": "E:\\My\\System-Design\\Projects\\E-Commerce\\ApplicationSolution\\Back-End\\Domain\\Domain.InfrastructureInterfaces\\Domain.InfrastructureInterfaces.csproj"
             }
           }
         }

@@ -10,7 +10,7 @@ namespace Domain.InfrastructureInterfaces.Databases.Shared
     public class ListParameters<Type>
     {
         public PagingParameters PagingParameters;
-        public List<Expression<Func<Type, bool>>> WhereConditions;
+        public List<Expression<Func<Type, bool>>> WhereConditions = new List<Expression<Func<Type, bool>>>();
 
         public ListParameters<Type> Create()
         {
