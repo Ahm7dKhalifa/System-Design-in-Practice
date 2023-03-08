@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domain.InfrastructureInterfaces.BackgroundServices
 {
-    class Class1
+    public interface IIncrementProductViewerJob
     {
+        void Execute(IncrementProductViewerJobParameters Parameters);
     }
 }

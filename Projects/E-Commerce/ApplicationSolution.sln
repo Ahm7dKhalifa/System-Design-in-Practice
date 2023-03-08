@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32819.101
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Front-End", "Front-End", "{98E6B4C0-D0B7-4593-BD8B-16351716B9AB}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.BackgroundServices.HangfireServer", "ApplicationSolution\Back-End\Infrastructure\Infrastructure.BackgroundServices.HangfireServer\Infrastructure.BackgroundServices.HangfireServer.csproj", "{C12A415B-3679-42D5-899C-E0001F477584}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Gateway", "ApplicationSolution\Back-End\Api\Api.Gateway\Api.Gateway.csproj", "{24A645C6-9807-483B-8DF3-706E4B60255A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.EmailsServices", "ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\Infrastructure.EmailsServices.csproj", "{754689C0-E8C7-46D0-8B9A-C6F3907998C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{24A645C6-9807-483B-8DF3-706E4B60255A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A645C6-9807-483B-8DF3-706E4B60255A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A645C6-9807-483B-8DF3-706E4B60255A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754689C0-E8C7-46D0-8B9A-C6F3907998C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754689C0-E8C7-46D0-8B9A-C6F3907998C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754689C0-E8C7-46D0-8B9A-C6F3907998C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754689C0-E8C7-46D0-8B9A-C6F3907998C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{0C6FA4A3-6F3B-4FE4-93B8-59D3E93A496F} = {5D4BCB01-574B-44F2-BFE4-4DB597D4AA84}
 		{C12A415B-3679-42D5-899C-E0001F477584} = {5D4BCB01-574B-44F2-BFE4-4DB597D4AA84}
 		{24A645C6-9807-483B-8DF3-706E4B60255A} = {921BE15E-115B-4042-8624-7CC0B066A0F3}
+		{754689C0-E8C7-46D0-8B9A-C6F3907998C1} = {5D4BCB01-574B-44F2-BFE4-4DB597D4AA84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B6D864D-2985-4824-9A03-8C2380DAAA57}
