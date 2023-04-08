@@ -1,4 +1,5 @@
-﻿using Domain.Core.Products;
+﻿using Domain.Core.Clients;
+using Domain.Core.Products;
 using Infrastructure.Database.SqlServer.ModelConfigurations;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,12 +12,18 @@ namespace Infrastructure.Database.SqlServer.EntityFrameworkCore
 {
     public class DatabaseContext : DbContext
     {
+        #region Products
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductViewer> ProductViewers { get; set; }
         public DbSet<ProductLike> ProductLikes { get; set; }
         public DbSet<ProductAttribute> ProductAttributes { get; set; }
         public DbSet<ProductFileType> ProductFileTypes { get; set; }
         public DbSet<ProductFile> ProductFiles { get; set; }
+        #endregion
+
+        #region Clients
+        public DbSet<Client> Clients { get; set; }
+        #endregion
         public DatabaseContext(DbContextOptions<DatabaseContext> options)
             : base(options)
         {

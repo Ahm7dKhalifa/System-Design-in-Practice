@@ -19,6 +19,51 @@ namespace Infrastructure.Database.SqlServer.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
+            modelBuilder.Entity("Domain.Core.Clients.Client", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<DateTime?>("CreatedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<long?>("CreatedBy")
+                        .HasColumnType("bigint");
+
+                    b.Property<long?>("DeleteBy")
+                        .HasColumnType("bigint");
+
+                    b.Property<bool>("Deleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("DeletedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("TotalMoneyOfAllOrders")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<long>("TotalNumberOfAllOrders")
+                        .HasColumnType("bigint");
+
+                    b.Property<DateTime?>("UpdatedLastTimeAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<long?>("UpdatedLastTimeBy")
+                        .HasColumnType("bigint");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Clients");
+                });
+
             modelBuilder.Entity("Domain.Core.Products.Product", b =>
                 {
                     b.Property<long>("Id")
@@ -47,11 +92,20 @@ namespace Infrastructure.Database.SqlServer.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<double>("Rate")
+                        .HasColumnType("float");
+
                     b.Property<decimal>("TotalCountOfLikes")
                         .HasColumnType("decimal(18,2)");
 
                     b.Property<decimal>("TotalCountOfViewers")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<decimal>("TotalMoneyOfSales")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<long>("TotalNumberOfOrders")
+                        .HasColumnType("bigint");
 
                     b.Property<DateTime?>("UpdatedLastTimeAt")
                         .HasColumnType("datetime2");

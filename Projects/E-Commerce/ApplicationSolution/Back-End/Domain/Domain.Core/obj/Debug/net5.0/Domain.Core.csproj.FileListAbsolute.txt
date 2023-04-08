@@ -22,3 +22,15 @@ E:\My\E-Commerce\E-Commerce\E-Commerce\ApplicationSolution\Back-End\Domain\Domai
 E:\My\E-Commerce\E-Commerce\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.dll
 E:\My\E-Commerce\E-Commerce\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\ref\Domain.Core.dll
 E:\My\E-Commerce\E-Commerce\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.pdb
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\bin\Debug\net5.0\Domain.Core.deps.json
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\bin\Debug\net5.0\Domain.Core.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\bin\Debug\net5.0\ref\Domain.Core.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\bin\Debug\net5.0\Domain.Core.pdb
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.csproj.AssemblyReference.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.AssemblyInfoInputs.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.AssemblyInfo.cs
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.csproj.CoreCompileInputs.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\ref\Domain.Core.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Domain\Domain.Core\obj\Debug\net5.0\Domain.Core.pdb

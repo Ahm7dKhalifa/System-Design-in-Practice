@@ -14,6 +14,9 @@ namespace Domain.Core.Products
         public ProductPrice Price { get; private set; }
         public decimal TotalCountOfViewers { get; private set; }
         public decimal TotalCountOfLikes { get; private set; }
+        public long TotalNumberOfOrders { get; private set; }
+        public decimal TotalMoneyOfSales { get; private set; }
+        public double Rate { get; private set; }
 
         private readonly List<ProductViewer> _productViewers = new List<ProductViewer>();
         public IReadOnlyCollection<ProductViewer> ProductViewers => _productViewers.AsReadOnly();

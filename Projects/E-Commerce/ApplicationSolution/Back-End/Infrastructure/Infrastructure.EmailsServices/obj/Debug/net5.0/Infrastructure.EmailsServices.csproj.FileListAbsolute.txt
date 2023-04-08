@@ -1,0 +1,17 @@
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Infrastructure.EmailsServices.deps.json
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Infrastructure.EmailsServices.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\ref\Infrastructure.EmailsServices.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Infrastructure.EmailsServices.pdb
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Domain.Core.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Domain.InfrastructureInterfaces.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Domain.InfrastructureInterfaces.pdb
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\bin\Debug\net5.0\Domain.Core.pdb
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.csproj.AssemblyReference.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.AssemblyInfoInputs.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.AssemblyInfo.cs
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.csproj.CoreCompileInputs.cache
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.csproj.CopyComplete
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\ref\Infrastructure.EmailsServices.dll
+E:\My\System-Design\Projects\E-Commerce\ApplicationSolution\Back-End\Infrastructure\Infrastructure.EmailsServices\obj\Debug\net5.0\Infrastructure.EmailsServices.pdb
