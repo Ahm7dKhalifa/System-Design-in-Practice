@@ -27,6 +27,9 @@ namespace Domain.Core.Products
         private readonly List<ProductAttribute> _productAttributes = new List<ProductAttribute>();
         public IReadOnlyCollection<ProductAttribute> ProductAttributes => _productAttributes.AsReadOnly();
 
+        private readonly List<ProductFile> _productFiles = new List<ProductFile>();
+        public IReadOnlyCollection<ProductFile> ProductFiles => _productFiles.AsReadOnly();
+
         public Product() { }
 
         public Product(string name , string description , decimal price) 

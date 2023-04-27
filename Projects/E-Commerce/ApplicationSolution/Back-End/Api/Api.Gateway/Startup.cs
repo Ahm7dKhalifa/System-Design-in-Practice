@@ -48,7 +48,7 @@ namespace Api.Gateway
                 return multiplexer.GetDatabase();
             });
 
-            services.AddScoped<IProductsPrimaryDatabaseRepository, ProductsPrimaryDatabaseRepository>();
+            services.AddScoped<IProductsPrimaryDatabaseRepository, ProductsSqlServerDatabaseRepository>();
             #endregion
         }
 

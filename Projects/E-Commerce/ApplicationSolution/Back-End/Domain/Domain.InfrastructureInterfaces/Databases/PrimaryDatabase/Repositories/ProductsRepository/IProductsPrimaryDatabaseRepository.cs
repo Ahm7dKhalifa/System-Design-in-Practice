@@ -10,6 +10,7 @@ namespace Domain.InfrastructureInterfaces.Databases.PrimaryDatabase.Repositories
 {
     public interface IProductsPrimaryDatabaseRepository : IGenericRepository<Product,long>
     {
+        Task<Product> GetProductById(long productId);
         Task<List<Product>> GetProductsOrderedDescByTotalNumbersOfLikes(ListParameters<Product> listParameters);
     }
 }

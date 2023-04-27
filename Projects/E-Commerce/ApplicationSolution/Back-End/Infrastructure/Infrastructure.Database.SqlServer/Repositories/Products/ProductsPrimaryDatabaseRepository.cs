@@ -12,11 +12,26 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Database.SqlServer.Repositories
 {
-    public class ProductsPrimaryDatabaseRepository : GenericRepository<Product,long> , IProductsPrimaryDatabaseRepository
+    public class ProductsSqlServerDatabaseRepository : GenericRepository<Product,long> , IProductsPrimaryDatabaseRepository
     {
-        public ProductsPrimaryDatabaseRepository(DatabaseContext databaseContext) : base(databaseContext)
+        public ProductsSqlServerDatabaseRepository(DatabaseContext databaseContext) : base(databaseContext)
         {
            
+        }
+
+        public async Task<Product> GetProductById(long productId)
+        {
+            return await this._databaseSet
+                            .AsQueryable()
+                            .Include(product => product.Price)
+                            .Include(product => product.ProductAttributes)
+                            .Include(product => product.ProductLikes)
+                            .Include(product => product.ProductViewers)
+                            .Include(product => product.ProductFiles)
+                            .ThenInclude(productFile => productFile.ProductFileType)
+                            .Where(product => product.Id == productId)
+                            .FirstOrDefaultAsync();
+
         }
 
         public async Task<List<Product>> GetProductsOrderedDescByTotalNumbersOfLikes(ListParameters<Product> listParameters)
@@ -30,5 +45,7 @@ namespace Infrastructure.Database.SqlServer.Repositories
                             .ToListAsync();
 
         }
+
+       
     }
 }
