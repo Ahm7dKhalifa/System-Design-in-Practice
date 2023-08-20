@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Koshary_Architecture_Web
+build_property.RootNamespace = Koshary_Architecture_Web
+build_property.ProjectDir = E:\Backend-Engineering-in-Practice\Part_01 Software Architecture and Design\Ch_01 Koshary Architecture\Projects\Web\Koshary_Architecture_Web\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Backend-Engineering-in-Practice\Part_01 Software Architecture and Design\Ch_01 Koshary Architecture\Projects\Web\Koshary_Architecture_Web
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/AddEmployeeByManager_Example_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1wbG95ZWVCeU1hbmFnZXJfRXhhbXBsZV8xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Backend-Engineering-in-Practice/Part_01 Software Architecture and Design/Ch_01 Koshary Architecture/Projects/Web/Koshary_Architecture_Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r72rvssnou

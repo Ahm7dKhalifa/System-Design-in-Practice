@@ -1,0 +1,122 @@
+﻿@page
+@model AddEmployeeByManager_Example_1_Model
+@{
+    ViewData["Title"] = "Example 1";
+}
+
+<form method="post">
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Employee Name</label>
+                <input type="text" class="form-control" id="employeeNameInputTextBox" name="NewEmployeeUserInterfaceModel.Name" value="@Model.NewEmployeeUserInterfaceModel.Name">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Employee Birthdate</label>
+                <input type="date" class="form-control" id="employeeBirthdateInputTextBox" name="NewEmployeeUserInterfaceModel.Birthdate" value="@Model.NewEmployeeUserInterfaceModel.Birthdate">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Employee Email</label>
+                <input type="text" class="form-control" id="employeeEmailInputTextBox" name="NewEmployeeUserInterfaceModel.Email" value="@Model.NewEmployeeUserInterfaceModel.Email">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Employee Phone Number</label>
+                <input type="text" class="form-control" id="employeePhoneNumberInputTextBox" name="NewEmployeeUserInterfaceModel.PhoneNumber" value="@Model.NewEmployeeUserInterfaceModel.PhoneNumber">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Country</label>
+                <input type="text" class="form-control" id="countryInputTextBox" name="NewEmployeeUserInterfaceModel.Country" value="@Model.NewEmployeeUserInterfaceModel.Country">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>City</label>
+                <input type="text" class="form-control" id="cityInputTextBox" name="NewEmployeeUserInterfaceModel.City" value="@Model.NewEmployeeUserInterfaceModel.City">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Street and Building Number</label>
+                <input type="text" class="form-control" id="streetAndBuildingNumberInputTextBox" name="NewEmployeeUserInterfaceModel.StreetAndBuildingNumber" value="@Model.NewEmployeeUserInterfaceModel.StreetAndBuildingNumber">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 1 *</label>
+                <input type="text" class="form-control" id="skill_1_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_1" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_1">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 2</label>
+                <input type="text" class="form-control" id="skill_2_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_2" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_2">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 3</label>
+                <input type="text" class="form-control" id="skill_3_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_3" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_3">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 4</label>
+                <input type="text" class="form-control" id="skill_4_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_4" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_4">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 5</label>
+                <input type="text" class="form-control" id="skill_5_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_5" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_5">
+            </div>
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <label>Skill 6</label>
+                <input type="text" class="form-control" id="skill_6_InputTextBox" name="NewEmployeeUserInterfaceModel.EmployeeSkill_6" value="@Model.NewEmployeeUserInterfaceModel.EmployeeSkill_6">
+            </div>
+        </div>
+    </div>
+    <div class="row m-4">
+        <div class="col-6">
+            <button type="submit" class="btn btn-primary">Add new employee</button>
+        </div>
+    </div>
+    @if (Model.NewEmployeeUserInterfaceModel.IsSuccess)
+    {
+        <div class="row">
+            <div class="col">
+                <div class="bg-success" style="color:white;">
+                    @Model.NewEmployeeUserInterfaceModel.Message
+                </div>
+            </div>
+        </div>
+    }
+    else if (!string.IsNullOrEmpty(Model.NewEmployeeUserInterfaceModel.Message))
+    {
+        <div class="row">
+            <div class="col">
+                <div class="bg-danger" style="color:white;">
+                    @Html.Raw(Model.NewEmployeeUserInterfaceModel.Message)
+                </div>
+            </div>
+        </div>
+    }
+
+</form>
